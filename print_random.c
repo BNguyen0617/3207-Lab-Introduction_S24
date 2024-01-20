@@ -4,6 +4,7 @@
 #include "random.c"
 
 
+
 int main()
 {
 	int a;

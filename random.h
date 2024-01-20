@@ -1,0 +1,9 @@
+//
+// Created by Brian Nguyen on 1/19/24.
+//
+#ifndef INC_3207_LAB_INTRODUCTION_S24_RANDOM_H
+#define INC_3207_LAB_INTRODUCTION_S24_RANDOM_H
+
+char randchar();
+
+#endif //INC_3207_LAB_INTRODUCTION_S24_RANDOM_H
